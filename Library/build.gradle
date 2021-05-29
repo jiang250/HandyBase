@@ -44,7 +44,7 @@ dependencies {
     //gson
     api 'com.google.code.gson:gson:2.8.5'
     //fastjson
-    api 'com.alibaba:fastjson:1.2.54'
+//    api 'com.alibaba:fastjson:1.2.54'
     //AndroidUtilCode
     api 'com.blankj:utilcode:1.22.10'
     //Bugly
