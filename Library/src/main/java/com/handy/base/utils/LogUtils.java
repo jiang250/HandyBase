@@ -4,6 +4,8 @@ import android.os.Environment;
 import android.support.annotation.IntDef;
 import android.util.Log;
 
+import com.handy.base.utils.androidutilcode.Utils;
+
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
